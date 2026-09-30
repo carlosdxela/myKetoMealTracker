@@ -1,0 +1,1 @@
+{"app":"npx ts-node --prefer-ts-exts bin/keto-tracker.ts","context":{"alarmEmail":"","usdaApiKey":""},"watch":{"exclude":["README.md","cdk*.json","**/*.d.ts","**/*.js","node_modules","cdk.out","frontend/dist"],"include":["**"]}}

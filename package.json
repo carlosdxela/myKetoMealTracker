@@ -1,0 +1,1 @@
+{"description":"AWS CDK infrastructure for the Keto Meal Tracker (us-west-2, serverless, free-tier friendly)","devDependencies":{"@types/node":"^20.11.0","aws-cdk-lib":"^2.130.0","constructs":"^10.3.0","typescript":"^5.4.0"},"name":"keto-tracker-cdk","private":true,"scripts":{"build":"tsc","cdk":"cdk","watch":"tsc -w"},"version":"1.0.0"}
